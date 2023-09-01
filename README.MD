@@ -1,10 +1,4 @@
-
-
-# Bienvenue à toi cher.e candidat.e.
-
 ## L'application et ses fonctionnalités 
-
-L'application utilise React et Material UI. Il y a déjà plusieurs composants utilisés qui sont dans le dossier `/components`.
 
 L'application doit permettre d'afficher des photos de chiens.
 
