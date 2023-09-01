@@ -53,6 +53,4 @@ Si l'on clique sur l'un des noms de liste, la page de la race de chien s'affiche
 - [Fetch API](https://developer.mozilla.org/en-US/docs/Web/API/Fetch_API/Using_Fetch)
 
 - [Typescript](https://www.typescriptlang.org/docs/handbook/2/basic-types.html)# DogProject-React-MUI
-# DogProject-React-MUI
-# DogProject-React-MUI
-# DogsProject-ReactMUI
+AV
