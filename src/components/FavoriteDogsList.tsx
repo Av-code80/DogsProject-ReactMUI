@@ -7,7 +7,6 @@ interface FavoriteDogsListProps {
   onDogClick: (dog: string) => void;
   onRemove: (dog: string) => void;
 }
-
 export const FavoriteDogsList: React.FC<FavoriteDogsListProps> = ({
   favoriteDogs = [],
   onDogClick,

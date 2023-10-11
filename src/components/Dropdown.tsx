@@ -20,7 +20,6 @@ export const Dropdown: React.FC<DropdownProps> = ({
   const handleChange = (event: SelectChangeEvent<string | number>) => {
     onChange(event.target.value);
   };
-
   return (
     <Box sx={{ paddingBlockEnd: 2 }}>
       <FormControl fullWidth>
